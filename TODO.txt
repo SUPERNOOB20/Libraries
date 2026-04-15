@@ -1,0 +1,6 @@
+to-do list:
+
+* Improve pygame_utils.
+* Improve colour_utils (yes, both the C and the Python ones).
+
+* Make anim_utils.c library with bezier curves.
