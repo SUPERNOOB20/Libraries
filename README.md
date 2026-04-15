@@ -21,4 +21,4 @@ Will provide scripts to install dependencies (WIP)
 .
 .
 
-Will make a more proper readme when work is not crushing me e.e
+Will make a more proper readme whenever the insurmountable workload over my shoulders stops crushing me e.e
